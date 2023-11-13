@@ -87,7 +87,7 @@ html {
 /* BEGIN BANNER */
 #banner {
     height: 798px;
-    background-image: url('/assets/img/banner/mac.jpg');
+    background-image: url('/StartUpWeb/assets/img/banner/mac.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
